@@ -1,0 +1,7 @@
+{
+  "evaluated_customers": 1000,
+  "precision_at_k": 0.0012,
+  "recall_at_k": 0.012,
+  "hit_rate_at_k": 0.012,
+  "ndcg_at_k": 0.004804
+}
